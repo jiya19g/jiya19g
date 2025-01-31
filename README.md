@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/d3/96/1a/d3961a9e434320520d83d648eefcebcd.jpg" alt="Header Image" width="100%" height="auto">
-</p>
+
 # 💫 About Me:
 🎓 Pursuing Computer Engineering in India  <br>🤖 Learning Machine Learning & Data Science  <br>📚 Love exploring new things and solving problems  <br>☕ When not coding, you'll find me reading a book  
 
